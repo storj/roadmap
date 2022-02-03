@@ -1,16 +1,11 @@
 # Storj Public Roadmap
 :sparkle: View the [official Storj Public Product Roadmap](https://github.com/orgs/storj/projects/23)
 
+In keeping with one of our core company values of transparency, we’re excited to share our public product roadmap to give you visibility into our key product focus and feature priorities. Whether you’re a developer, CTO, partner, Web3 enthusiast, community member, and/or user, you can see planned features and timelines designed to improve and enhance object storage. This repository is designed to work in conjunction with our [open development process](https://www.storj.io/blog/storj-open-development-announcement), for which we’re always looking for comments, feedback, and, of course, code contribution.  We’re also looking forward to feedback on how to improve the way we communicate, present, and collaborate on the roadmap over time.
 
-We are excited to share our public product roadmap with the community of customers, users, builders, and decentralized storage enthusiasts. This roadmap is intended to provide key understandings of the features and capabilities that are being built for the storage layer of the decentralized web. 
+In each issue, you can read about the description of the feature and the problem it’s designed to solve. New discoveries and revised priorities are anticipated—and sometimes bodies of work take longer than expected or get reprioritized in preference of more impactful features. The product team will be updating this roadmap and responding to comments on planned issues. 
 
-This repository is designed to work in conjunction with our open development process to communicate the direction of the roadmap. We expect to make improvements to the way we communicate, present, and collaborate on the roadmap with the community over time.
-
-As part of our [open development process](https://www.storj.io/blog/storj-open-development-announcement), we’re always looking for comments, feedback and, of course, code contribution.  In this first version of the public roadmap, we’ve chosen to make existing issues read-only, but open for conversations.
-
-In each issue you can read about the description of the feature and the problem it’s designed to solve. New discoveries and priorities are anticipated—and sometimes bodies of work take longer than expected or get reprioritized in preference to more impactful features. The product team will be updating this roadmap and responding to comments on planned issues. 
-
-If you have any questions or feedback about a specific issue on this roadmap please contribute by commenting on the issue. You can also share general feedback on our [forum](https://forum.storj.io/).
+If you have any questions or feedback about a specific issue on this roadmap please contribute by commenting on the issue. You can also share general feedback on our forum. 
 
 ### Guide to the roadmap
 
@@ -32,5 +27,3 @@ How to read the Roadmap:
 ### Disclaimer:
 
 This document and the roadmap contain forward-looking statements about our product direction. Any statements in this document, Storj repositories, or the roadmap that do not describe anything past or otherwise historical are considered forward-looking statements. The planned development, release, and timing of any features or functionality described in this roadmap may change at any time. Any forward-looking statements are made based upon the information available at the time the statement was made, and Storj makes no commitment to update or maintain any forward-looking statements. The information herein is not a commitment to deliver any material, code, or functionality, by any particular time or date, and should not be relied upon in making purchase decisions.
-
-
